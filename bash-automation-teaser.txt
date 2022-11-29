@@ -1,0 +1,5 @@
+Hi! I can do this. I will create a simple and highly configurable bash script to monitor your services and restart / flush when they are down.  
+
+I've done similar tasks many times. You can see examples of my work at https://sparrowhub.io . 
+
+As a bonus, for free -  I can convert this script into a plugin and publish it to sparrowhub,  so later you can reuse it on any other server.   
